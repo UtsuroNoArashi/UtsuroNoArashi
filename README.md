@@ -24,7 +24,7 @@ a new LaTeX for your lecture notes, inspired by the ‘vhbelvadi’ one
 - **Databases**: phpMyAdmin
 
 ## 📈 GitHub Stats
-![UtsuroNoArashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtsuroNoArashi&show_icons=true&theme=radical)
+![UtsuroNoArashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtsuroNoArashi&show_icons=true&theme=rose_pine)
 
 ## 📫 How to reach me
 - Email: RiccardoL_02@outlook.com
