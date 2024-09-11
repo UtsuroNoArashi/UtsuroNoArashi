@@ -5,7 +5,7 @@ I'm a CS student passionate about cyber security,
 math and IT in general . 
 
 ## 🔭 Current Projects
-[lecturnotes](https://github.com/UtsuroNoArashi/lecturenotes)
+- [lecturnotes](https://github.com/UtsuroNoArashi/lecturenotes): a LaTeX class inspired by the vhbelvadi one
 
 ## 🌱 Currently learning 
 - Postgress
