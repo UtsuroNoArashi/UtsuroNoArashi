@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm [Riccardo] 👋
 
-<!--
-**UtsuroNoArashi/UtsuroNoArashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a CS student passionate about cyber security, 
+math and IT in general . 
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- [lecturenotes](https://github.com/UtsuroNoArashi/lecturenotes.git):
+a new LaTeX for your lecture notes, inspired by the ‘vhbelvadi’ one
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱. Currently learning 
+- Postgress
+- TikZ
+- Lua
+
+## 💼 Skills
+- **Languages**: C/C++, Java
+- **Frameworks/Libraries**: LibGDX (Java)
+- **Databases**: MariaDB
+
+## 📈 GitHub Stats
+![UtsuroNoArashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtsuroNoArashi&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- Email: RiccardoL_02@outlook.com
+
+## 🤝 Open to collaborate on
+- (mainly) writing TeX docs
+- game development
+
+⭐️ From [UtsuroNoArashi](https://github.com/UtsuroNoArashi)
