@@ -1,4 +1,4 @@
-# Hello, I'm [Riccardo] 👋
+# Hello, I'm Riccardo 👋
 
 ## About Me
 I'm a CS student passionate about cyber security, 
