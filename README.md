@@ -14,9 +14,9 @@ a new LaTeX for your lecture notes, inspired by the ‘vhbelvadi’ one
 - Lua
 
 ## 💼 Skills
-- **Languages**: C/C++, Java
+- **Languages**: C/C++, Java, LaTeX
 - **Frameworks/Libraries**: LibGDX (Java)
-- **Databases**: PHPMyAdmin
+- **Databases**: phpMyAdmin
 
 ## 📈 GitHub Stats
 ![UtsuroNoArashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtsuroNoArashi&show_icons=true&theme=radical)
