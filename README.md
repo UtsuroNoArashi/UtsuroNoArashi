@@ -8,7 +8,7 @@ math and IT in general .
 - [lecturenotes](https://github.com/UtsuroNoArashi/lecturenotes.git):
 a new LaTeX for your lecture notes, inspired by the ‘vhbelvadi’ one
 
-## 🌱. Currently learning 
+## 🌱 Currently learning 
 - Postgress
 - TikZ
 - Lua
