@@ -5,7 +5,7 @@ I'm a CS student passionate about cyber security,
 math and IT in general . 
 
 ## 🔭 Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsuroNoArashi &repo=lecturnotes)](https://github.com/UtsuroNoArashi/lecturenotes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsuroNoArashi &repo=lecturenotes)](https://github.com/UtsuroNoArashi/lecturenotes)
 
 ## 🌱 Currently learning 
 - Postgress
