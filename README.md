@@ -13,6 +13,11 @@ a new LaTeX for your lecture notes, inspired by the ‘vhbelvadi’ one
 - TikZ
 - Lua
 
+## 🎯 Future learning goals 
+- Rust
+- Go
+- Tmux
+
 ## 💼 Skills
 - **Languages**: C/C++, Java, LaTeX
 - **Frameworks/Libraries**: LibGDX (Java)
