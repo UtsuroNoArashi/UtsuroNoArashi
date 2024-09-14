@@ -9,7 +9,6 @@ math and IT in general .
 
 ## 🌱 Currently learning 
 - Postgress
-- TikZ
 - Lua
 
 ## 🎯 Future learning goals 
@@ -18,7 +17,7 @@ math and IT in general .
 - Tmux
 
 ## 💼 Skills
-- **Languages**: C/C++, Java, LaTeX
+- **Languages**: C/C++, Java
 - **Frameworks/Libraries**: LibGDX (Java)
 - **Databases**: phpMyAdmin
 
